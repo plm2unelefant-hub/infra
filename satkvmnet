@@ -1,0 +1,55 @@
+#SATELLITE KVM NETWORK 172.25.250.0/24
+#SATELLITE Network
+172.25.250.5   sattest.lab.dev.example.com
+172.25.250.6   captest.lab.dev.example.com
+172.25.250.7   gitlab.lab.dev.example.com
+172.25.250.8   jenkinsmaster.lab.dev.example.com
+172.25.250.9   workstation.lab.dev.example.com
+172.25.250.10  satellite.lab.dev.example.com
+172.25.250.11  capsule.lab.dev.example.com		
+172.25.250.12  servera.lab.dev.example.com
+172.25.250.13  serverb.lab.dev.example.com
+172.25.250.14  serverc.lab.dev.example.com
+172.25.250.15  serverd.lab.dev.example.com
+172.25.250.16  servere.lab.dev.example.com
+172.25.250.17  idm.lab.dev.example.com
+172.25.250.18  tower.lab.dev.example.com
+#CI/CD
+172.25.250.24  dev.lab.dev.example.com
+172.25.250.25  jenkinsmaster.lab.dev.example.com
+172.25.250.26  gitlab.lab.dev.example.com
+172.25.250.27  test.lab.dev.example.com
+#ORACLE19CDB
+172.25.250.28 oracle19.lab.dev.example.com
+172.25.250.29 registry.lab.dev.example.com
+#LINUX Cluster Public nework
+172.25.250.19  power.lab.dev.public.example.com
+172.25.250.20  nodea.lab.dev.public.example.com
+172.25.250.21  nodeb.lab.dev.public.example.com
+172.25.250.22  nodec.lab.dev.public.example.com
+172.25.250.23  noded.lab.dev.public.example.com
+172.25.250.30  storage.lab.dev.example.com
+#OpenStack
+172.25.250.31   packstack.lab.dev.example.com
+172.25.250.32   ceph0.lab.dev.example.com
+#rhds
+172.25.250.33   rhds.lab.dev.example.com
+#ORACLE PUB
+172.25.250.67 oracle-node01.lab.dev.example.com
+172.25.250.68 oracle-node02.lab.dev.example.com
+172.25.250.65 oracle-node03.lab.dev.example.com
+172.25.250.66 oracle-node04.lab.dev.example.com
+#ORACLE VIP
+172.25.250.72  oracle-node01-virt.lab.dev.example.com
+172.25.250.73   oracle-node02-virt.lab.dev.example.com
+172.25.250.63   oracle-node03-virt.lab.dev.example.com
+172.25.250.64   oracle-node04-virt.lab.dev.example.com
+#ORACLE SCAN
+172.25.250.69  oracle-scan.lab.dev.example.com
+172.25.250.70  oracle-scan.lab.dev.example.com
+172.25.250.71  oracle-scan.lab.dev.example.com
+#ORACLENONRAc
+oracle19.lab.dev.example.com
+#kdc
+172.25.250.75 kdcserv.lab.dev.example.com
+172.25.250.76 kdccl.lab.dev.example.com
