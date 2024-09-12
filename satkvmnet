@@ -40,10 +40,10 @@
 172.25.250.65 oracle-node03.lab.dev.example.com
 172.25.250.66 oracle-node04.lab.dev.example.com
 #ORACLE VIP
-172.25.250.72  oracle-node01-virt.lab.dev.example.com
-172.25.250.73   oracle-node02-virt.lab.dev.example.com
-172.25.250.63   oracle-node03-virt.lab.dev.example.com
-172.25.250.64   oracle-node04-virt.lab.dev.example.com
+172.25.250.72  oracle-node01-vip.lab.dev.example.com
+172.25.250.73   oracle-node02-vip.lab.dev.example.com
+172.25.250.63   oracle-node03-vip.lab.dev.example.com
+172.25.250.64   oracle-node04-vip.lab.dev.example.com
 #ORACLE SCAN
 172.25.250.69  oracle-scan.lab.dev.example.com
 172.25.250.70  oracle-scan.lab.dev.example.com
